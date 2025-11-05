@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adam Rosario-Semple
 
-### Junior Web Developer | WordPress & Front-End Contractor | Former Registered Nurse
+### Junior Web Developer | WordPress & Front-End Contractor | Registered Nurse
 
 - 🌱 Currently completing *The Complete Full-Stack Web Development Bootcamp (Udemy, 2025)*  
 - 💻 Skilled in HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL & WordPress  
