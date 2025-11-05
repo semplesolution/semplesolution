@@ -6,4 +6,4 @@
 - 💻 Skilled in HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL & WordPress  
 - 🚀 Building **Semple Solutions**, offering web development and WordPress repair services  
 - 📫 Reach me at semple.adam@gmail.com  
-- 🌐 Fiverr: [Semple Solutions](https://www.fiverr.com/semple_solution)
+- 🌐 Fiverr: [Semple Solution](https://www.fiverr.com/semple_solution)
